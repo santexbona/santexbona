@@ -6,6 +6,3 @@ My goal is to always build products that provide pixel-perfect, performant exper
 Feel free to customize this by adding your own information, recent blog posts, contact info etc. 
 Let me know if you would like me to modify it in any other way!
 👯 I’m looking to learn more
-<!--
-**santexbona/santexbona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
